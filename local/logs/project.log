@@ -1,0 +1,74 @@
+2022-03-16T10:07:24.132Z - normal: Load ~/.CocosCreator/settings.json
+2022-03-16T10:07:24.193Z - normal: Initializing Asset Database
+2022-03-16T10:07:24.196Z - normal: checking language setting...
+2022-03-16T10:07:24.196Z - normal: Language: zh
+2022-03-16T10:07:25.389Z - success: protocol editor-framework registered
+2022-03-16T10:07:25.389Z - success: protocol app registered
+2022-03-16T10:07:25.389Z - success: protocol theme registered
+2022-03-16T10:07:25.390Z - success: protocol packages registered
+2022-03-16T10:07:25.390Z - success: protocol uuid registerred
+2022-03-16T10:07:25.390Z - success: protocol db registerred
+2022-03-16T10:07:25.390Z - success: protocol thumbnail registerred
+2022-03-16T10:07:25.390Z - success: protocol unpack registerred
+2022-03-16T10:07:25.390Z - success: protocol disable-commonjs registerred
+2022-03-16T10:07:25.563Z - normal: connected!
+2022-03-16T10:07:25.565Z - normal: Check project /Users/hejixuan/Desktop/杂七杂八/科协/THUAI/Eggs
+2022-03-16T10:07:25.567Z - normal: Initializing project /Users/hejixuan/Desktop/杂七杂八/科协/THUAI/Eggs
+2022-03-16T10:07:25.873Z - success: adapters loaded
+2022-03-16T10:07:25.879Z - success: asset-db-debugger loaded
+2022-03-16T10:07:25.987Z - success: fb-audience-network loaded
+2022-03-16T10:07:26.057Z - success: fb-live-stream loaded
+2022-03-16T10:07:26.061Z - success: google-play-instant loaded
+2022-03-16T10:07:26.062Z - success: jsb-adapter loaded
+2022-03-16T10:07:26.071Z - success: package-manager loaded
+2022-03-16T10:07:26.072Z - success: runtime-adapters loaded
+2022-03-16T10:07:26.077Z - success: runtime-dev-tools loaded
+2022-03-16T10:07:26.082Z - success: ui-kit-preview-extra loaded
+2022-03-16T10:07:26.087Z - success: ui-kit-preview loaded
+2022-03-16T10:07:26.166Z - success: alipay-minigame loaded
+2022-03-16T10:07:26.226Z - success: assets loaded
+2022-03-16T10:07:26.230Z - success: baidugame-opendata loaded
+2022-03-16T10:07:26.232Z - success: baidugame loaded
+2022-03-16T10:07:26.238Z - success: builder loaded
+2022-03-16T10:07:26.241Z - success: bytedance-opendata loaded
+2022-03-16T10:07:26.244Z - success: bytedance loaded
+2022-03-16T10:07:26.248Z - success: channel-upload-tools loaded
+2022-03-16T10:07:26.257Z - success: cloud-function loaded
+2022-03-16T10:07:26.540Z - success: cocos-services loaded
+2022-03-16T10:07:26.546Z - success: console loaded
+2022-03-16T10:07:26.548Z - success: curve-editor loaded
+2022-03-16T10:07:26.561Z - success: fb-instant-games loaded
+2022-03-16T10:07:26.564Z - success: game-window loaded
+2022-03-16T10:07:26.565Z - success: google-instant-games loaded
+2022-03-16T10:07:26.568Z - success: hierarchy loaded
+2022-03-16T10:07:26.572Z - success: huawei-agc loaded
+2022-03-16T10:07:26.576Z - success: huawei-runtime loaded
+2022-03-16T10:07:26.581Z - success: inspector loaded
+2022-03-16T10:07:26.597Z - success: cpk-publish loaded
+2022-03-16T10:07:26.598Z - success: keystore loaded
+2022-03-16T10:07:26.615Z - success: link-sure-runtime loaded
+2022-03-16T10:07:26.628Z - success: node-library loaded
+2022-03-16T10:07:26.629Z - success: open-recent-items loaded
+2022-03-16T10:07:26.633Z - success: oppo-runtime loaded
+2022-03-16T10:07:26.635Z - success: package-asset loaded
+2022-03-16T10:07:26.636Z - success: preferences loaded
+2022-03-16T10:07:26.641Z - success: project-importer loaded
+2022-03-16T10:07:26.645Z - success: project-settings loaded
+2022-03-16T10:07:26.660Z - success: qtt-runtime loaded
+2022-03-16T10:07:26.663Z - success: scene loaded
+2022-03-16T10:07:26.664Z - success: simulator-debugger loaded
+2022-03-16T10:07:26.665Z - success: sprite-editor loaded
+2022-03-16T10:07:26.712Z - success: store loaded
+2022-03-16T10:07:26.716Z - success: timeline loaded
+2022-03-16T10:07:26.721Z - success: vivo-runtime loaded
+2022-03-16T10:07:26.724Z - success: wechatgame-opendata loaded
+2022-03-16T10:07:26.728Z - success: wechatgame loaded
+2022-03-16T10:07:26.731Z - success: xiaomi-runtime loaded
+2022-03-16T10:07:26.796Z - success: im-plugin loaded
+2022-03-16T10:07:26.800Z - success: preview server running at http://localhost:7456
+2022-03-16T10:07:28.100Z - info: Cocos Service load base data!
+2022-03-16T10:07:28.375Z - normal: Initializing Cocos2d
+2022-03-16T10:07:28.812Z - normal: Initializing engine extends
+2022-03-16T10:07:30.086Z - normal: Loading packages
+2022-03-16T10:07:30.090Z - normal: Watching packages
+2022-03-16T10:07:30.257Z - normal: Run Application
